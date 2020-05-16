@@ -6,7 +6,18 @@ It has 3 endpoints, one to create a ToDo task, other to mark the task as complet
 
 Following are the dependencies to build and execute the application.  
 
-Install and activate the virtual environment before you execute any of the files. Make sure thet the dependencies are installed in venv. [Guide to install virtual environment](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
+Navigate to the folder to install and activate the virtual environment before you execute any of the files. Make sure thet the dependencies are installed in venv. [Guide to install virtual and activate environment](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
+
+### Virtual Environment 
+Install
+> python3 -m pip install --user virtualenv
+
+Create
+> python3 -m venv env
+
+Activate
+>source env/bin/activate
+
 
 ### Framework : Flask and HTML
 > pip install Flask
