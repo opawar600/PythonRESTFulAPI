@@ -19,9 +19,9 @@ As I'm using Python3, I don't have to install virtual environment modules explic
 
 To execute the files, run the following commands
 
-> ##### FLASK_APP=app.py
+> ##### export FLASK_APP=app.py
 
-> ##### flask return
+> ##### flask run
 
 Open the link into your browser to see the application functioning.
 
