@@ -23,8 +23,16 @@ Using the following command, you create your login information by entering usern
 
 > python3 manage.py createsuperuser
 
+OR
+
+>python manage.py createsuperuser
+
 By executing the next command, the server is fired up
 > python3 manage.py runserver
+
+OR
+
+>python manage.py runserver
 
 Keep the server running and in your browser, copy *127.0.0.1:8000/admin* to see the application running. Enter the username and password created in the previous step and you can start adding tasks to the ToDo List.
 
