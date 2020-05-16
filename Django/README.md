@@ -4,7 +4,9 @@ Here we develop a Django based RESTful API which implements a ToDo Application.
 
 It has various endpoints, one to create a ToDo task, other to mark the task as complete or incomplete and last endpoint to delete the ToDo task.
 
-Following are the dependencies to build and execute the application.  
+Following are the dependencies to build and execute the application.
+
+Install and activate the virtual environment before you execute any of the files. Make sure thet the dependencies are installed in venv. [Guide to install virtual environment](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
 
 ### Framework : Django
 > pip install Django
@@ -15,7 +17,6 @@ No need to install it externally as it comes with Django
 ### Python
 > 3.6.4
 
-As I'm using Python3, I don't have to install virtual environment modules explicitly.
 
 To execute the files, navigate to the folder and run the following commands
 
