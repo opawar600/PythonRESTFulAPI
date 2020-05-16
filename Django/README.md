@@ -36,7 +36,7 @@ OR
 
 Keep the server running and in your browser, copy *127.0.0.1:8000/admin* to see the application running. Enter the username and password created in the previous step and you can start adding tasks to the ToDo List.
 
-### Adding task to ToDo List and change authentication
+### Adding task to ToDo List and change action
 
 ![Adding Task](AddTask.png)
 
