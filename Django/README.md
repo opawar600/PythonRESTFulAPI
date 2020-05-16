@@ -8,6 +8,16 @@ Following are the dependencies to build and execute the application.
 
 Install and activate the virtual environment before you execute any of the files. Make sure thet the dependencies are installed in venv. [Guide to install virtual environment](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
 
+### Virtual Environment 
+Install
+> python3 -m pip install --user virtualenv
+
+Create
+> python3 -m venv env
+
+Activate
+> source env/bin/activate
+
 ### Framework : Django
 > pip install Django
 
