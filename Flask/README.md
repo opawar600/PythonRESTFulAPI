@@ -25,7 +25,7 @@ To execute the files, run the following commands
 
 > ##### flask run
 
-![Server Running](Screen Shot 2020-05-16 at 3.23.32 PM)
+![Server Running](Server.png)
 
 Open the link into your browser to see the application functioning.
 
